@@ -1,0 +1,3 @@
+. edit lib/gsnizk/tests.cpp
+. type make
+. run lib/gsnizk/gsnizk
