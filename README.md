@@ -1,10 +1,15 @@
-This is a fork of https://github.com/baz1/GS-NIZK
+This is the implementation of 
+
+[Erik-Oliver Blass, Florian Kerschbaum, “BOREALIS: Building Block for Sealed Bid Auctions on Blockchains”, Proceedings of ACM Asia Conference on Computer and Communications Security (AsiaCCS), Taipei, Taiwan, 2020](https://eprint.iacr.org/2019/276.pdf).
+
+
+The code in this repository is a fork of https://github.com/baz1/GS-NIZK
 
 See below for installation requirements. If your platform meets all requirements, just run `make` and then `lib/gsnizk/gsnizk`. The relevant proofs are in file `lib/gsnizk/tests.cpp`. 
 
 
 Below is the original README.
-
+***
 # GS-NIZK
 
 Efficient implementation of the [Non-Interactive Zero-Knowledge proofs
